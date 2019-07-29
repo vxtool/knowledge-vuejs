@@ -3,7 +3,11 @@
 Experiments with Cordova
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/knowledge-cordova.svg?style=flat-square)](https://github.com/descco-tools/knowledge-cordova/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-cordova.svg)](https://github.com/org-victorinox/knowledge-cordova/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/knowledge-cordova.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/knowledge-cordova.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-cordova.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-cordova/total.svg)
 
 ## Contributing
 
@@ -15,7 +19,7 @@ Experiments with Cordova
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/knowledge-cordova/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/knowledge-cordova/releases) for detailed changelog.
 
 ## License
 
