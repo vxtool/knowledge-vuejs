@@ -7,9 +7,15 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-vuejs.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-vuejs/total.svg)
 
-## Translations
+## Languages
 
-* [Portuguese - Brazil](translations/pt_BR)
+* [Portuguese - Brazil](languages/pt_BR)
+
+## Summary
+
+- [Articles](ARTICLES.md)
+- [Projects](PROJECTS.md)
+- [Videos](VIDEOS.md)
 
 ## Contributing
 
