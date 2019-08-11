@@ -8,12 +8,12 @@
 
 ## Idiomas
 
-* [ORIGINAL](https://github.com/org-victorinox/knowledge-vuejs/)
+* [Inglês](https://github.com/org-victorinox/knowledge-vuejs/)
 
 ## Sumário
 
 - [Artigos](ARTICLES.md)
-- [Projetos](https://github.com/org-victorinox/knowledge-vuejs/PROJECTS.md)
+- [Projetos](https://github.com/org-victorinox/knowledge-vuejs/blob/master/PROJECTS.md)
 - [Vídeos](VIDEOS.md)
 
 ## Contribuindo
