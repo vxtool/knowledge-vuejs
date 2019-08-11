@@ -30,7 +30,7 @@
 
 ## Log
 
-Verifique os [Releases](https://github.com/org-victorinox/knowledge-vuejs/releases) ver detalhado o log de alterações.
+Verifique os [Releases](https://github.com/org-victorinox/knowledge-vuejs/releases) para ver detalhado o log de alterações.
 
 ## Licença
 
