@@ -11,6 +11,10 @@
 
 * [Portuguese - Brazil](languages/pt_BR)
 
+## Documentation
+
+- [vuejs.org](https://vuejs.org/)
+
 ## Summary
 
 - [Articles](ARTICLES.md)

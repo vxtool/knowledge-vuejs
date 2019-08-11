@@ -10,6 +10,10 @@
 
 * [Inglês](https://github.com/org-victorinox/knowledge-vuejs/)
 
+## Documentação
+
+- [br.vuejs.org](https://br.vuejs.org/)
+
 ## Sumário
 
 - [Artigos](ARTICLES.md)
